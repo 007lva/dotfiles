@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/home/lvargas/projects/Rankia/app/controllers'
+let g:netrw_dirhist_2='/home/lvargas/projects/Rankia/app'
+let g:netrw_dirhist_3='/home/lvargas/projects/Rankia'
+let g:netrw_dirhist_4='/home/lvargas/projects'
+let g:netrw_dirhist_5='/home/lvargas'
+let g:netrw_dirhist_6='/home'
+let g:netrw_dirhist_7='/home/lvargas/projects/Rankia'
+let g:netrw_dirhist_8='/home/lvargas/projects/Emergia/news_tematica'
+let g:netrw_dirhist_9='/home/lvargas'
